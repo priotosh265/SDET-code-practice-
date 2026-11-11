@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class BasicCalculatorOfTwoNumbers {
+    //Calculate result according to the operation given and display it to the user.
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
