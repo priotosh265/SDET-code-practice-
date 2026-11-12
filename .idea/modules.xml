@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PatternsCode/PatternsCode.iml" filepath="$PROJECT_DIR$/PatternsCode/PatternsCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SDET-code-practice-.iml" filepath="$PROJECT_DIR$/.idea/SDET-code-practice-.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleCodeJava/SimpleCodeJava.iml" filepath="$PROJECT_DIR$/SimpleCodeJava/SimpleCodeJava.iml" />
     </modules>
