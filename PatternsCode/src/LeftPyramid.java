@@ -9,3 +9,10 @@ public class LeftPyramid {
         }
     }
 }
+//output
+//*
+//**
+//***
+//****
+//*****
+//******
