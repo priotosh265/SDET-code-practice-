@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrintAllEvenNumberTillN {
+public class SumAllEvenNumberTillN {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
