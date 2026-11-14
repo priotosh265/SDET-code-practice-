@@ -11,12 +11,13 @@ public class LeftReversePyramid {
         }
     }
 }
-//output
-//    *
-//   **
-//  ***
-// ****
+/*
+output
+    *
+   **
+  ***
+ ****
+Another approach
+Instead of using if else you can also use 2 for loops inside main loop
+*/
 
-//Another approach
-
-//Instead of using if else you can also use 2 for loops inside main loop
