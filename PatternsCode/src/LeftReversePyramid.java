@@ -18,5 +18,5 @@ public class LeftReversePyramid {
 // ****
 
 //Another approach
-//
+
 //Instead of using if else you can also use 2 for loops inside main loop
