@@ -7,9 +7,6 @@ public class PrintSolidRhombus {
             for (int j = 0; j < 10; j++) {
                 System.out.print("*");
             }
-            for (int j=0; j<=5-i; j++) {
-                System.out.print(" ");
-            }
             System.out.println();
         }
     }
