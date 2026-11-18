@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/PatternsCode/PatternsCode.iml" filepath="$PROJECT_DIR$/PatternsCode/PatternsCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SDET-code-practice-.iml" filepath="$PROJECT_DIR$/.idea/SDET-code-practice-.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleCodeJava/SimpleCodeJava.iml" filepath="$PROJECT_DIR$/SimpleCodeJava/SimpleCodeJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleStringsQuestionsCode/SimpleStringsQuestionsCode.iml" filepath="$PROJECT_DIR$/SimpleStringsQuestionsCode/SimpleStringsQuestionsCode.iml" />
     </modules>
   </component>
 </project>
