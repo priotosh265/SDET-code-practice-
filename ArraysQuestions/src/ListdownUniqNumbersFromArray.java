@@ -8,6 +8,9 @@ public class ListdownUniqNumbersFromArray {
             find.add(numbers[i]);
         }
         for (int i : find)
-        System.out.println(i);
+            System.out.println(i);
+
+        //or print direct set
+//        System.out.println(find);
     }
 }
